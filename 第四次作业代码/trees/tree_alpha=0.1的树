@@ -1,0 +1,9 @@
+digraph Tree {
+node [shape=box, style="filled, rounded", color="black", fontname="helvetica"] ;
+edge [fontname="helvetica"] ;
+0 [label="Uniformity of Cell Shape <= 3.5\ngini = 0.455\nsamples = 559\nvalue = [363, 196]\nclass = benign", fillcolor="#f3c5a4"] ;
+1 [label="gini = 0.117\nsamples = 368\nvalue = [345, 23]\nclass = benign", fillcolor="#e78946"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="gini = 0.171\nsamples = 191\nvalue = [18, 173]\nclass = malignant", fillcolor="#4ea7e8"] ;
+0 -> 2 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+}

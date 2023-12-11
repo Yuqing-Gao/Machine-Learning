@@ -1,0 +1,17 @@
+digraph Tree {
+node [shape=box, style="filled, rounded", color="black", fontname="helvetica"] ;
+edge [fontname="helvetica"] ;
+0 [label="Uniformity of Cell Shape <= 3.5\ngini = 0.455\nsamples = 559\nvalue = [363, 196]\nclass = benign", fillcolor="#f3c5a4"] ;
+1 [label="Bare Nuclei <= 5.5\ngini = 0.117\nsamples = 368\nvalue = [345, 23]\nclass = benign", fillcolor="#e78946"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="Normal Nucleoli <= 3.5\ngini = 0.044\nsamples = 352\nvalue = [344, 8]\nclass = benign", fillcolor="#e6843e"] ;
+1 -> 2 ;
+3 [label="gini = 0.017\nsamples = 345\nvalue = [342, 3]\nclass = benign", fillcolor="#e5823b"] ;
+2 -> 3 ;
+4 [label="gini = 0.408\nsamples = 7\nvalue = [2, 5]\nclass = malignant", fillcolor="#88c4ef"] ;
+2 -> 4 ;
+5 [label="gini = 0.117\nsamples = 16\nvalue = [1, 15]\nclass = malignant", fillcolor="#46a4e7"] ;
+1 -> 5 ;
+6 [label="gini = 0.171\nsamples = 191\nvalue = [18, 173]\nclass = malignant", fillcolor="#4ea7e8"] ;
+0 -> 6 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+}
