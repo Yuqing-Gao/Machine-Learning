@@ -1,0 +1,33 @@
+\contentsline {section}{\numberline {1}数据集及任务}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}数据集描述}{3}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}我们的任务}{3}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}主要函数说明}{4}{subsection.1.3}%
+\contentsline {section}{\numberline {2}实验设置}{5}{section.2}%
+\contentsline {subsection}{\numberline {2.1}预处理}{5}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}缺失值处理}{5}{subsubsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.2}可视化}{5}{subsubsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.2}评价指标}{7}{subsection.2.2}%
+\contentsline {section}{\numberline {3}线性判别分类}{8}{section.3}%
+\contentsline {subsection}{\numberline {3.1}基本原理}{8}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}数值实验}{8}{subsection.3.2}%
+\contentsline {section}{\numberline {4}Logistic回归}{10}{section.4}%
+\contentsline {subsection}{\numberline {4.1}基本原理}{10}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}数值实验}{10}{subsection.4.2}%
+\contentsline {section}{\numberline {5}K最近邻分类}{12}{section.5}%
+\contentsline {subsection}{\numberline {5.1}基本原理}{12}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}数值实验}{12}{subsection.5.2}%
+\contentsline {subsubsection}{\numberline {5.2.1}确定最佳k值}{12}{subsubsection.5.2.1}%
+\contentsline {subsubsection}{\numberline {5.2.2}使用K=9的KNN分类器进行分类}{12}{subsubsection.5.2.2}%
+\contentsline {section}{\numberline {6}朴素贝叶斯分类}{14}{section.6}%
+\contentsline {subsection}{\numberline {6.1}基本原理}{14}{subsection.6.1}%
+\contentsline {subsubsection}{\numberline {6.1.1}朴素贝叶斯分类}{14}{subsubsection.6.1.1}%
+\contentsline {subsubsection}{\numberline {6.1.2}朴素贝叶斯分类器}{15}{subsubsection.6.1.2}%
+\contentsline {paragraph}{伯努利朴素贝叶斯分类器（Bernoulli Naive Bayes）}{15}{subsubsection.6.1.2}%
+\contentsline {paragraph}{多项式朴素贝叶斯分类器（Multinomial Naive Bayes）}{15}{subsubsection.6.1.2}%
+\contentsline {paragraph}{高斯朴素贝叶斯分类器（Gaussian Naive Bayes）}{15}{equation.6.5}%
+\contentsline {subsection}{\numberline {6.2}数值实验}{16}{subsection.6.2}%
+\contentsline {subsubsection}{\numberline {6.2.1}高斯朴素贝叶斯分类器}{16}{subsubsection.6.2.1}%
+\contentsline {subsubsection}{\numberline {6.2.2}多项式朴素贝叶斯分类器}{17}{subsubsection.6.2.2}%
+\contentsline {subsubsection}{\numberline {6.2.3}拉普拉斯平滑}{17}{subsubsection.6.2.3}%
+\contentsline {section}{\numberline {7}比较分析}{19}{section.7}%
+\contentsline {section}{\numberline {8}总结与反思}{20}{section.8}%
